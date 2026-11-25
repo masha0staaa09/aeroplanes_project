@@ -1,0 +1,9 @@
+.idea/
+.venv/
+pycache/
+*.py[cod]
+
+.coverage
+htmlcov/
+pytest.log
+*.log
